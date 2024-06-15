@@ -9,7 +9,7 @@ time.sleep(2)
 print("The game is about to start!\n Let's play Hangman!")
 time.sleep(3)
 
-words_to_guess = ["january", "border", "image", "film", "promise", "kids", "lungs", "doll", "rhyme", "damage", "plants"]
+words_to_guess = ["january","border", "image", "film", "promise", "kids", "lungs", "doll", "rhyme", "damage", "plants"]
 already_guessed = []
 
 def main():
